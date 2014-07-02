@@ -7,7 +7,7 @@ tap homebrew/versions
 # install standard brew packages
 install brew-cask
 install rbenv ruby-build
-install pyenv-virtualenv
+install python pyenv-virtualenv
 install node
 install zsh sl wget curl openssl
 install git tig
