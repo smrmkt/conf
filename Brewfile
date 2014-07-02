@@ -1,15 +1,19 @@
 update
 upgrade
- 
-# install standard brew package
+
+# homebrew-cask setting
+tap homebrew/versions 
+
+# install standard brew packages
 install brew-cask
 install rbenv ruby-build
-install pyenv-virtualenv
+install python pyenv-virtualenv
 install node
-install zsh sl wget curl openssl openssl-devel
+install zsh sl wget curl openssl
 install git tig
 install tmux vim
 
+# install cask packages
 cask install alfred
 cask install appcleaner
 cask install bettertouchtool
