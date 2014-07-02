@@ -1,0 +1,13 @@
+[user]
+  name = smrmkt
+  email = smrmkt@gmail.com
+[alias]
+  ad = add
+  cm = commit
+  co = checkout
+  df = diff
+  ft = fetch
+  so = remote show origin
+  st = status st = status
+[color]
+  ui = auto
