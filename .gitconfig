@@ -8,6 +8,6 @@
   df = diff
   ft = fetch
   so = remote show origin
-  st = status st = status
+  st = status st
 [color]
   ui = auto
