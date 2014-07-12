@@ -35,4 +35,11 @@ set smartcase"
 " highlight search result
 :set hlsearch"
 
-
+" replace tab to spaces↲
+set expandtab↲
+" set tab spaces↲
+set tabstop=4↲
+" set auto indent spaces↲
+set shiftwidth=4↲
+" set cursor move sizewith tab/BS key"↲
+set softtabstop=4
